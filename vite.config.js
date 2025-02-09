@@ -9,6 +9,6 @@ export default defineConfig({
         }),
     ],
     build: {
-        outDir: 'public/dist', // pastikan output berada di folder 'public/dist'
+        outDir: 'dist', // pastikan output berada di folder 'public/dist'
     }
 });
